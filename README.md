@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Saharier 👋
 
-<!--
-**Saharier203/Saharier203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student | Software Engineering | AI/ML | Automation | Research
 
-Here are some ideas to get you started:
+I'm a Computer Science student interested in software development, AI, automation, and research. Throughout my undergraduate studies, I've built projects through coursework, research, and personal experimentation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Areas I Work With
+
+`Python` `Java` `JavaScript` `C/C++` `SQL` `Git` `Linux`
+
+- Software & Web Development
+- AI / Machine Learning
+- NLP & Computer Vision
+- LLM Applications
+- Automation
+- IoT
+
+## 🔬 Research
+
+### Multimodal Educational Video Summarization
+
+Research project focused on automatically identifying important portions of educational lectures and generating shorter versions of the original videos.
+
+**My work includes:**
+- Building a dataset of ~300K video segments
+- Whisper-based speech/transcript processing
+- Visual feature extraction and slide/scene transition analysis
+- Semantic feature engineering
+- LLM and ML-based importance analysis
+- End-to-end video summarization pipeline
+- Generating and evaluating final output videos
+
+[View Research Project →](PROJECT_LINK)
+
+## 🤖 AI & Automation
+
+Built an automated AI content pipeline that generates ~10-minute scary-story videos and handles the workflow from **story generation → narration → visuals → video assembly → YouTube upload**.
+
+[View Project →](PROJECT_LINK)
+
+## 🌱 Currently Learning
+
+Full-stack development, backend APIs, AI-powered applications, software architecture, and deployment.
+
+## 🤝 Open to
+
+Software development, AI/ML, automation, research, and collaborative projects.
+
+⭐ Thanks for visiting!
