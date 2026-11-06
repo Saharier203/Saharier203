@@ -36,7 +36,7 @@ Research project focused on automatically identifying important portions of educ
 
 Built an automated AI content pipeline that generates ~10-minute scary-story videos and handles the workflow from **story generation → narration → visuals → video assembly → YouTube upload**.
 
-[View Project →](PROJECT_LINK)
+[View Project →](https://github.com/Saharier203/Yt-Video-upload-using-Ai-agent)
 
 ## 🌱 Currently Learning
 
