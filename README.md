@@ -1,49 +1,18 @@
-# Hi, I'm Saharier 👋
+# 💫 About Me:
+I am a final-year Computer Science and Engineering student at United International University (UIU), interested in Artificial Intelligence, Machine Learning, and Software Development. I have worked on academic AI research, LLM-based video summarization, computer vision, and web development projects. I enjoy learning new technologies, solving problems, and building practical solutions. I am eager to grow my skills and gain hands-on experience in the tech industry.
 
-### Computer Science Student | Software Engineering | AI/ML | Automation | Research
 
-I'm a Computer Science student interested in software development, AI, automation, and research. Throughout my undergraduate studies, I've built projects through coursework, research, and personal experimentation.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saharier_iqbal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Saharier Iqbal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saharieriqbal0@gmail.com) 
 
-## 💻 Areas I Work With
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Saharier203&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Saharier203&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Saharier203&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-`Python` `Java` `JavaScript` `C/C++` `SQL` `Git` `Linux`
+---
+[![](https://komarev.com/ghpvc/?username=Saharier203&icon=10&color=13)](https://visitcount.itsvg.in)
 
-- Software & Web Development
-- AI / Machine Learning
-- NLP & Computer Vision
-- LLM Applications
-- Automation
-- IoT
-
-## 🔬 Research
-
-### Multimodal Educational Video Summarization
-
-Research project focused on automatically identifying important portions of educational lectures and generating shorter versions of the original videos.
-
-**My work includes:**
-- Building a dataset of ~300K video segments
-- Whisper-based speech/transcript processing
-- Visual feature extraction and slide/scene transition analysis
-- Semantic feature engineering
-- LLM and ML-based importance analysis
-- End-to-end video summarization pipeline
-- Generating and evaluating final output videos
-
-[View Research Project →](PROJECT_LINK)
-
-## 🤖 AI & Automation
-
-Built an automated AI content pipeline that generates ~10-minute scary-story videos and handles the workflow from **story generation → narration → visuals → video assembly → YouTube upload**.
-
-[View Project →](https://github.com/Saharier203/Yt-Video-upload-using-Ai-agent)
-
-## 🌱 Currently Learning
-
-Full-stack development, backend APIs, AI-powered applications, software architecture, and deployment.
-
-## 🤝 Open to
-
-Software development, AI/ML, automation, research, and collaborative projects.
-
-⭐ Thanks for visiting!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
